@@ -1,1 +1,1 @@
-# PR-CTICA-6
+# PRACTICA-6
